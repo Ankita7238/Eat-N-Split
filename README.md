@@ -13,4 +13,5 @@ Eat-N-Split is a React-based web application that simplifies the management of e
 
 
 ![image](https://github.com/Ankita7238/Eat-N-Split/assets/141292926/3a7ff0d8-b6e4-47bd-9ace-758874be529f)
+
 Can be useable between only TWO friends at a Time. It is a simple Core React JS project. It is used to Learn React JS state management system. 
